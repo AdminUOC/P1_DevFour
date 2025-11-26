@@ -1,0 +1,14 @@
+pass jenkins
+5549228436f34f3790a7cd4e435fd20f
+
+id instancia ec2
+i-0f07a9683823bfdb2
+
+cuenta jenkins
+Admin
+UOC1234
+
+cuenta Github
+dgarciatre@uoc.edu
+AdminUOC
+AdminUOC1234
